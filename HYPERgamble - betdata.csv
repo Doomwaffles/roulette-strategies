@@ -1,0 +1,218 @@
+Strategy,Starting Funds,Target Funds,Color,Wins,Losses,Total Rounds,Ending Funds
+Martingale,100,150,red,1,4,5,-10
+Martingale,100,150,red,3,4,7,200
+Martingale,100,150,red,3,3,6,170
+Martingale,100,150,black,3,3,6,210
+Martingale,100,150,black,0,4,4,-50
+Martingale,100,150,black,2,3,5,190
+Martingale,100,200,red,4,4,8,210
+Martingale,100,200,red,8,2,10,210
+Martingale,100,200,red,1,4,5,-10
+Martingale,100,200,black,5,3,8,220
+Martingale,100,200,black,5,3,8,250
+Martingale,100,200,black,4,5,9,-90
+Martingale,100,300,red,0,4,4,-50
+Martingale,100,300,red,6,2,8,310
+Martingale,100,300,red,3,5,8,-110
+Martingale,100,300,black,9,4,13,330
+Martingale,100,300,black,5,5,10,370
+Martingale,100,300,black,5,3,8,330
+Anti-Martingale,100,150,red,12,17,29,-15
+Anti-Martingale,100,150,red,6,6,12,-5
+Anti-Martingale,100,150,red,17,18,35,-57
+Anti-Martingale,100,150,black,5,2,7,155
+Anti-Martingale,100,150,black,10,14,24,-1
+Anti-Martingale,100,150,black,3,0,3,170
+Anti-Martingale,100,200,red,6,5,11,-10
+Anti-Martingale,100,200,red,12,12,24,-2
+Anti-Martingale,100,200,red,10,8,18,-5
+Anti-Martingale,100,200,black,4,0,4,250
+Anti-Martingale,100,200,black,14,25,39,-15
+Anti-Martingale,100,200,black,20,20,40,222
+Anti-Martingale,100,300,red,17,22,39,-1
+Anti-Martingale,100,300,red,5,0,5,410
+Anti-Martingale,100,300,red,6,4,10,-35
+Anti-Martingale,100,300,black,10,5,15,375
+Anti-Martingale,100,300,black,10,8,18,-11
+Anti-Martingale,100,300,black,8,3,11,310
+Oscar's Grind,100,150,red,8,4,12,150
+Oscar's Grind,100,150,red,6,1,7,150
+Oscar's Grind,100,150,red,6,14,20,-10
+Oscar's Grind,100,150,black,3,10,13,-10
+Oscar's Grind,100,150,black,4,8,12,0
+Oscar's Grind,100,150,black,2,8,10,0
+Oscar's Grind,100,200,red,6,12,18,0
+Oscar's Grind,100,200,red,10,18,28,-30
+Oscar's Grind,100,200,red,16,12,28,200
+Oscar's Grind,100,200,black,20,26,46,-10
+Oscar's Grind,100,200,black,29,23,52,200
+Oscar's Grind,100,200,black,2,8,10,-10
+Oscar's Grind,100,300,red,30,41,71,-10
+Oscar's Grind,100,300,red,27,28,55,0
+Oscar's Grind,100,300,red,62,67,129,300
+Oscar's Grind,100,300,black,6,10,16,0
+Oscar's Grind,100,300,black,51,45,96,300
+Oscar's Grind,100,300,black,23,25,48,-40
+Labouchere,100,150,red,0,4,4,-22
+Labouchere,100,150,red,5,1,6,150
+Labouchere,100,150,red,3,8,11,-24
+Labouchere,100,150,black,7,6,13,150
+Labouchere,100,150,black,0,3,3,-14
+Labouchere,100,150,black,3,1,4,150
+Labouchere,100,200,red,0,3,3,-2
+Labouchere,100,200,red,3,6,9,-55
+Labouchere,100,200,red,2,5,7,-7
+Labouchere,100,200,black,7,2,9,200
+Labouchere,100,200,black,5,1,6,200
+Labouchere,100,200,black,2,6,8,-5
+Labouchere,100,300,red,11,4,15,300
+Labouchere,100,300,red,4,9,13,-31
+Labouchere,100,300,red,17,11,28,300
+Labouchere,100,300,black,22,22,44,300
+Labouchere,100,300,black,4,6,10,-60
+Labouchere,100,300,black,9,11,20,-11
+Martingale,250,375,red,5,3,8,400
+Martingale,250,375,red,0,5,5,-60
+Martingale,250,375,red,8,1,9,380
+Martingale,250,375,black,7,5,12,410
+Martingale,250,375,black,2,5,7,-10
+Martingale,250,375,black,6,5,11,450
+Martingale,250,500,red,6,4,10,520
+Martingale,250,500,red,1,5,6,-20
+Martingale,250,500,red,2,6,8,-290
+Martingale,250,500,black,6,5,11,590
+Martingale,250,500,black,3,7,10,-500
+Martingale,250,500,black,5,5,10,500
+Martingale,250,750,red,1,6,7,-220
+Martingale,250,750,red,8,4,12,900
+Martingale,250,750,red,9,7,16,1380
+Martingale,250,750,black,4,5,9,820
+Martingale,250,750,black,10,3,13,760
+Martingale,250,750,black,7,6,13,750
+Anti-Martingale,250,375,red,39,54,93,-11
+Anti-Martingale,250,375,red,10,6,16,403
+Anti-Martingale,250,375,red,15,16,31,-29
+Anti-Martingale,250,375,black,4,0,4,400
+Anti-Martingale,250,375,black,13,12,25,457
+Anti-Martingale,250,375,black,24,18,42,459
+Anti-Martingale,250,500,red,27,33,60,-2
+Anti-Martingale,250,500,red,12,6,18,795
+Anti-Martingale,250,500,red,24,25,49,-45
+Anti-Martingale,250,500,black,15,18,33,-9
+Anti-Martingale,250,500,black,11,7,18,-10
+Anti-Martingale,250,500,black,8,3,11,530
+Anti-Martingale,250,750,red,27,31,58,1147
+Anti-Martingale,250,750,red,32,35,67,-10
+Anti-Martingale,250,750,red,25,26,51,-7
+Anti-Martingale,250,750,black,17,18,35,-7
+Anti-Martingale,250,750,black,19,28,47,-12
+Anti-Martingale,250,750,black,13,7,20,800
+Oscar's Grind,250,375,red,24,14,38,380
+Oscar's Grind,250,375,red,7,16,23,-20
+Oscar's Grind,250,375,red,30,22,52,380
+Oscar's Grind,250,375,black,7,14,21,-10
+Oscar's Grind,250,375,black,14,23,37,-10
+Oscar's Grind,250,375,black,35,31,66,380
+Oscar's Grind,250,500,red,64,57,121,500
+Oscar's Grind,250,500,red,7,21,28,0
+Oscar's Grind,250,500,red,49,55,104,-50
+Oscar's Grind,250,500,black,66,56,122,500
+Oscar's Grind,250,500,black,58,49,107,500
+Oscar's Grind,250,500,black,14,19,33,0
+Oscar's Grind,250,750,red,130,121,251,750
+Oscar's Grind,250,750,red,127,119,246,750
+Oscar's Grind,250,750,red,103,73,176,750
+Oscar's Grind,250,750,black,29,41,70,0
+Oscar's Grind,250,750,black,15,21,36,-50
+Oscar's Grind,250,750,black,114,99,213,750
+Labouchere,250,375,red,12,7,19,375
+Labouchere,250,375,red,12,11,23,375
+Labouchere,250,375,red,6,12,18,-28
+Labouchere,250,375,black,14,16,30,375
+Labouchere,250,375,black,11,5,16,375
+Labouchere,250,375,black,8,11,19,-51
+Labouchere,250,500,red,27,28,55,500
+Labouchere,250,500,red,2,8,10,-61
+Labouchere,250,500,red,8,14,22,-13
+Labouchere,250,500,black,23,17,40,500
+Labouchere,250,500,black,15,3,18,500
+Labouchere,250,500,black,4,9,13,-109
+Labouchere,250,750,red,22,27,49,-72
+Labouchere,250,750,red,4,8,12,-21
+Labouchere,250,750,red,54,52,106,750
+Labouchere,250,750,red,46,39,85,750
+Labouchere,250,750,black,10,15,25,-32
+Labouchere,250,750,black,13,19,32,-112
+Labouchere,250,750,black,18,27,45,-1
+Martingale,500,750,red,5,5,10,890
+Martingale,500,750,red,9,4,13,840
+Martingale,500,750,red,5,4,9,780
+Martingale,500,750,black,5,5,10,860
+Martingale,500,750,black,9,4,13,750
+Martingale,500,750,black,2,7,9,-530
+Martingale,500,1000,red,5,6,11,-60
+Martingale,500,1000,red,6,5,11,1230
+Martingale,500,1000,red,7,5,12,1100
+Martingale,500,1000,black,2,6,8,-10
+Martingale,500,1000,black,6,5,11,1000
+Martingale,500,1000,black,8,5,13,1030
+Martingale,500,1500,red,6,6,12,1670
+Martingale,500,1500,red,7,7,14,-310
+Martingale,500,1500,red,8,6,14,2050
+Martingale,500,1500,black,8,7,15,-620
+Martingale,500,1500,black,11,4,15,1600
+Martingale,500,1500,black,4,6,10,2110
+Anti-Martingale,500,750,red,33,36,69,-57
+Anti-Martingale,500,750,red,51,67,118,-14
+Anti-Martingale,500,750,red,15,9,24,1169
+Anti-Martingale,500,750,black,74,102,176,0
+Anti-Martingale,500,750,black,31,35,66,791
+Anti-Martingale,500,750,black,9,3,12,1060
+Anti-Martingale,500,1000,red,23,22,45,-19
+Anti-Martingale,500,1000,red,14,13,27,1477
+Anti-Martingale,500,1000,red,44,50,94,1002
+Anti-Martingale,500,1000,black,33,34,67,-3
+Anti-Martingale,500,1000,black,21,19,40,-5
+Anti-Martingale,500,1000,black,21,18,39,-49
+Anti-Martingale,500,1500,red,62,69,131,-4
+Anti-Martingale,500,1500,red,9,2,11,1600
+Anti-Martingale,500,1500,red,10,8,18,-35
+Anti-Martingale,500,1500,black,76,111,187,-3
+Anti-Martingale,500,1500,black,20,17,37,-36
+Anti-Martingale,500,1500,black,17,15,32,-124
+Oscar's Grind,500,750,red,60,51,111,750
+Oscar's Grind,500,750,red,77,87,164,750
+Oscar's Grind,500,750,red,27,43,70,-40
+Oscar's Grind,500,750,black,66,67,133,750
+Oscar's Grind,500,750,black,48,35,83,750
+Oscar's Grind,500,750,black,69,64,133,750
+Oscar's Grind,500,1000,red,110,107,217,-50
+Oscar's Grind,500,1000,red,116,93,209,1000
+Oscar's Grind,500,1000,red,64,78,142,-30
+Oscar's Grind,500,1000,black,139,136,275,1000
+Oscar's Grind,500,1000,black,54,70,124,0
+Oscar's Grind,500,1000,black,155,165,320,1000
+Oscar's Grind,500,1500,red,262,283,545,-110
+Oscar's Grind,500,1500,red,281,280,561,1500
+Oscar's Grind,500,1500,red,284,282,566,1500
+Oscar's Grind,500,1500,black,151,165,316,-10
+Oscar's Grind,500,1500,black,127,139,266,-120
+Oscar's Grind,500,1500,black,99,114,213,-90
+Labouchere,500,750,red,7,15,22,-79
+Labouchere,500,750,red,31,34,65,750
+Labouchere,500,750,red,21,14,35,750
+Labouchere,500,750,black,19,13,32,750
+Labouchere,500,750,black,21,17,38,750
+Labouchere,500,750,black,22,22,44,750
+Labouchere,500,1000,red,44,38,82,1000
+Labouchere,500,1000,red,45,43,88,1000
+Labouchere,500,1000,red,14,21,35,-28
+Labouchere,500,1000,black,4,13,17,-74
+Labouchere,500,1000,black,47,48,95,1000
+Labouchere,500,1000,black,53,52,105,1000
+Labouchere,500,1500,red,84,64,148,1500
+Labouchere,500,1500,red,61,68,129,-3
+Labouchere,500,1500,red,21,32,53,-63
+Labouchere,500,1500,black,15,20,35,-131
+Labouchere,500,1500,black,24,33,57,-41
+Labouchere,500,1500,black,18,26,44,-7
